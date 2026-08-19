@@ -44,6 +44,11 @@ We use this categorical data encoding technique when the features are nominal(do
 <img width="867" height="557" alt="image" src="https://github.com/user-attachments/assets/80d8f962-d41c-4150-aae7-26ff2bf806c5" />
 <img width="507" height="187" alt="image" src="https://github.com/user-attachments/assets/db210dcc-f888-4835-a30f-978dcf32131e" />
 <img width="803" height="342" alt="image" src="https://github.com/user-attachments/assets/abedb1c1-e18c-43da-a9a6-3e9944187ce5" />
+<img width="777" height="324" alt="image" src="https://github.com/user-attachments/assets/a5db1382-96f6-427b-ab12-ae7618ae289e" />
+<img width="729" height="312" alt="image" src="https://github.com/user-attachments/assets/c4d5bb17-d8e0-4269-b4e9-fda4bb74f68a" />
+<img width="746" height="341" alt="image" src="https://github.com/user-attachments/assets/99d69824-9317-4975-9029-5f10c73715ae" />
+<img width="547" height="192" alt="image" src="https://github.com/user-attachments/assets/61b5a556-8ff0-4470-87ed-7a3569b7b2b2" />
+
 
 # RESULT:
        # INCLUDE YOUR RESULT HERE
