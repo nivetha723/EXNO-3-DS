@@ -1,5 +1,6 @@
 ## EXNO-3-DS
-
+## Name:Nivetha N
+## Reg.No:212225040290
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
@@ -47,10 +48,15 @@ We use this categorical data encoding technique when the features are nominal(do
 <img width="777" height="324" alt="image" src="https://github.com/user-attachments/assets/a5db1382-96f6-427b-ab12-ae7618ae289e" />
 <img width="729" height="312" alt="image" src="https://github.com/user-attachments/assets/c4d5bb17-d8e0-4269-b4e9-fda4bb74f68a" />
 <img width="746" height="341" alt="image" src="https://github.com/user-attachments/assets/99d69824-9317-4975-9029-5f10c73715ae" />
+<img width="1199" height="532" alt="image" src="https://github.com/user-attachments/assets/16aa2593-20f0-4c44-819e-fffc0c0d07b6" />
 <img width="547" height="192" alt="image" src="https://github.com/user-attachments/assets/61b5a556-8ff0-4470-87ed-7a3569b7b2b2" />
+<img width="1378" height="593" alt="image" src="https://github.com/user-attachments/assets/770cfb55-0964-450a-a02d-3c874e17b7bd" />
+<img width="1378" height="593" alt="image" src="https://github.com/user-attachments/assets/be09d91d-9c26-4781-808e-fce910ba20ad" />
+<img width="1371" height="673" alt="image" src="https://github.com/user-attachments/assets/911b3fd5-bea0-4e8e-a2da-55023c983c47" />
+<img width="876" height="622" alt="Screenshot 2026-08-19 185122" src="https://github.com/user-attachments/assets/6159d0d2-ee07-46ef-8eee-49a130cbe6ed" />
+<img width="1359" height="705" alt="image" src="https://github.com/user-attachments/assets/e54c101e-bbbd-450b-aa93-0c8696cffcd1" />
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
-
+The program and code is successfully completed     
        
